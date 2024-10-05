@@ -1,4 +1,4 @@
-# Railway Reservation System using JDBC
+# Railway Management and Reservation System using JDBC
 
 This repository contains a console-based railway reservation system implemented in Java. The project utilizes JDBC (Java Database Connectivity) to establish a connection between the Java application and a database management system (DBMS) for efficient data retrieval and storage.
 
