@@ -25,7 +25,7 @@ To run this project, ensure that you have the following prerequisites installed:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Arpitpatel1706/Railway-Reservation-System-using-JDBC
+   git clone https://github.com/97sachi/Railway_Management_System
    ```
 
 2. Configure the JDBC driver for your DBMS by adding the appropriate JAR file to the project's classpath. Refer to the documentation of your DBMS and JDBC driver for detailed instructions.
